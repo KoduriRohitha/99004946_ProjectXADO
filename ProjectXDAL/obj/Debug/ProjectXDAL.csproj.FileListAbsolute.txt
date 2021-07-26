@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#\DBProjectX\ProjectXDAL\bin\Debug\ProjectXDAL.dll
+C:\Users\user\Desktop\C#\DBProjectX\ProjectXDAL\bin\Debug\ProjectXDAL.pdb
+C:\Users\user\Desktop\C#\DBProjectX\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\DBProjectX\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\DBProjectX\ProjectXDAL\obj\Debug\ProjectXDAL.dll
+C:\Users\user\Desktop\C#\DBProjectX\ProjectXDAL\obj\Debug\ProjectXDAL.pdb

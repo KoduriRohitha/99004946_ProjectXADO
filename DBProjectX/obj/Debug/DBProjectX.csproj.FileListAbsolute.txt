@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\bin\Debug\DBProjectX.exe.config
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\bin\Debug\DBProjectX.exe
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\bin\Debug\DBProjectX.pdb
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\obj\Debug\DBProjectX.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\obj\Debug\DBProjectX.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\obj\Debug\DBProjectX.exe
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\obj\Debug\DBProjectX.pdb
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\bin\Debug\ProjectXDAL.dll
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\bin\Debug\ProjectXDAL.pdb
+C:\Users\user\Desktop\C#\DBProjectX\DBProjectX\obj\Debug\DBProjectX.csproj.CopyComplete
