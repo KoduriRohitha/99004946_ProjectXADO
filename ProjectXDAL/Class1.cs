@@ -11,18 +11,18 @@ namespace ProjectXDAL
     public class Class1
     {
         static SqlConnection connection = null;
-        public static string ConnectToDB()
+        public static SqlConnection ConnectToDB()
         {
             string conStr = ConfigurationManager.ConnectionStrings["Constr"].ConnectionString;
             try
             {
-                connection = new SqlConnection(conStr);
+                return new SqlConnection(conStr);
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
-            return connection.State.ToString();
+            return null;
         }
 
         public static List<string> GetData(string str)
